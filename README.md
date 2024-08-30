@@ -38,6 +38,5 @@ The dendrogram is a tree-like diagram that illustrates the hierarchical clusteri
 
 ## Example of usage
 ```python
-the_most_similar("12 Angry Men")![Uploading dendrogram.png…]()
-
+the_most_similar("12 Angry Men")
 'Mr. Smith Goes to Washington'
